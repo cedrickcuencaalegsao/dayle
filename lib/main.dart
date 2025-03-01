@@ -12,7 +12,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  MaterialApp(
-      title: 'Todo App',
+      title: 'Dayle Planner.',
       home: const SplashScreen(),
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
